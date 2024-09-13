@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "test"
   annotations:
-    github.com/project-slug: "test"
+    github.com/project-slug: saneaizog/template1
 spec:
   type: service
   owner: user:guest
